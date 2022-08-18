@@ -9,8 +9,8 @@
 <!-- Github Stats -->
 <div><br>
   <a href="https://github.com/murillom">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=murillom&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillom&layout=compact&langs_count-16&theme=react"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=murillom&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillom&layout=compact&langs_count-16&theme=react"/>
 </div>
 
 <!-- Dev icons -->

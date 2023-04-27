@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Front-end;Front-end+Developer)](https://git.io/typing-svg)
 
 ► Graduando em Ciência da Computação na UFMT<br>
-► Estudando na Alura<br>
-► Atualmente aprendendo Javascript e React<br>
+► Sempre estudando!<br>
+► Atualmente me aprofundando no ecossistema Javascript (Node.js, React.js, React Native, etc...) <br>
 ► Contato: <a href="mailto:murillomoreiraf@gmail.com">murillomoreiraf@gmail.com</a>
 
 <!-- Github Stats -->
